@@ -1,6 +1,6 @@
 # Name Check
 
- This a project of creating a machine learning model that takes a text of three words (name) and check if it is correct name with a confidence threshold of your prediction
+ This a project of creating a machine learning model that takes an arabic name and check if it is correct name with a confidence threshold of your prediction
 
 ## Run without Docker
 
